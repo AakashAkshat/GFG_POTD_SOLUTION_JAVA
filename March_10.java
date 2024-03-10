@@ -4,7 +4,7 @@
 
 class Solution {
     String removeDuplicates(String str) {
-        int[] arrr = new int[58];
+        int[] arr = new int[58];
         StringBuilder ans = new StringBuilder();
         
         for(char c : str.toCharArray()) {
