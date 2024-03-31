@@ -1,4 +1,5 @@
 class Solution {
+    
     public static int findMaxForN(Node root, int n) {
         // Add your code here.
         if(root == null)
