@@ -20,6 +20,7 @@ class Solution {
             else
                 h = mid;
         }
+        
         return h;
     }
 }
